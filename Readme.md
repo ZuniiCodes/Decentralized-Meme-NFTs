@@ -30,12 +30,9 @@ We aim to make memes eternal digital collectibles, empowering creators to profit
 ---
 
 ### **5. Contract Address**
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/3df7587d-e9a2-4058-8eda-55c1556a07bd" />
 
-*(Replace this with the deployed contract address once on the Stacks blockchain)*
-`SPXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.meme-nft`
 
----
+Contract Address: ST3XRM0BZHDA8447YAYJ2YCT22YVMZE60AZG43HZX.decentralized-meme-nfts
 
-If you want, I can also **extend this contract** to include a **marketplace function** or **royalty system** so meme creators earn on every resale. That would make the project more powerful.
 
-Do you want me to prepare **that upgraded version** next?
